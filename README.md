@@ -1,8 +1,8 @@
 <h1 align="center">Calculator</h1>
 
   <p align="center">
-    This Java calculator came to life as part of my journey into mastering language syntax, guided by J. Fain's Java Programming book.
-It serves as a hands-on application of the concepts I learned. Using the Swing library, the project showcases the implementation of a graphical user interface (GUI).
+    This Java calculator came to life as part of my journey into mastering language syntax, guided by <b>J. Fain's Java Programming book.</b>
+It serves as a hands-on application of the concepts I learned. Using the <b>Swing</b> library, the project showcases the implementation of a graphical user interface (GUI).
 Upon completing the book, I delved into the principles of writing clean and maintainable code. 
 To my discernment, the original code for this calculator project fell short of these ideals. 
 Thus, I embarked on the journey of refactoring, marking a pivotal step in my pursuit of refined coding practices.
